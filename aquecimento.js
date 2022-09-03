@@ -75,8 +75,8 @@ switch (dia) {
  // console.log(saida);
 
   //Coalescente
-  let coisa = 10;
-  let variavel = coisa ?? 'Não ha';
-  console.log(variavel);
+  //let coisa = 10;
+  //let variavel = coisa ?? 'Não ha';
+  //console.log(variavel);
   
 
