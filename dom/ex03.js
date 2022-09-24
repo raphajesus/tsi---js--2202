@@ -13,8 +13,14 @@ let e
     // e = document.scripts[2].getAttribute('src');
        //e = document.links
        //e = document.title
-       e = document.querySelector('input#task');
+       //e = document.querySelector('input#task');
     
-
+// com querySelector
+//e = document.querySelector('spna');
+//e = document.querySelector('div . row');
+//e = document.querySelector('input#task')
+//e = document.querySelector('li:first-child').innerText;
+//e = document.querySelector('li:last-child').innerText;
+e = document.querySelector('li:nth-child(3)').innerText;
 
 console.log(e);
